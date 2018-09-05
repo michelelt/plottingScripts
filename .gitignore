@@ -4,3 +4,5 @@ plotVancouver
 plotBerlino
 plotAggregated
 data*
+_pycache_
+_DS_Store
